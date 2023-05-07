@@ -1,11 +1,11 @@
-package de.espend.idea.laravel;
+package chirukinbb.idea.laravel;
 
 import com.intellij.openapi.components.ProjectComponent;
 import com.intellij.openapi.project.Project;
 import com.intellij.openapi.vfs.VfsUtil;
 import com.intellij.openapi.vfs.VirtualFile;
 import com.intellij.psi.PsiElement;
-import de.espend.idea.laravel.util.IdeHelper;
+import chirukinbb.idea.laravel.util.IdeHelper;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 
